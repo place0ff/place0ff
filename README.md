@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @place0ff
-- 👀 I’m interested in c#
-- 🌱 I’m currently learning c#
-- 💞️ I’m looking to collaborate on c#
-- 📫 How to reach me c#
+- 👋 Hi, I’m @place0ff my name Sasha
+- 👀 I’m interested in C#
+- 🌱 I’m currently learning C# and Unity
+- 📫 How to reach me Twitter @place0ff
 
 <!---
 place0ff/place0ff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
